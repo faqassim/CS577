@@ -5,9 +5,9 @@ Issues with this code so far: I haven't figured out how to correctly take in inp
 
 SAMPLE RUN: 
 
-INPUT:                          OUTPUT:
-2                               A B C 
-3                               1 2 3 4 
+INPUT:                          
+2                                  
+3                                   
 A B
 B A
 C
@@ -16,3 +16,9 @@ C
 2 1 3 
 3 2 4 
 4 3 
+
+
+
+OUTPUT:
+A B C
+1 2 3 4
