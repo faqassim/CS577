@@ -6,19 +6,19 @@ Issues with this code so far: I haven't figured out how to correctly take in inp
 SAMPLE RUN: 
 
 INPUT:                          
-2                                  
-3                                   
-A B
-B A
-C
-4
-1 2
-2 1 3 
-3 2 4 
-4 3 
+2 |                                  
+3 |                                 
+A B |
+B A |
+C |
+4 |
+1 2 |
+2 1 3 | 
+3 2 4 |
+4 3 |
 
 
 
 OUTPUT:
-A B C
+A B C |
 1 2 3 4
